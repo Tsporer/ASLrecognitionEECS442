@@ -1,8 +1,8 @@
-PWD /Users/thomassporer/Documents/auMichEECS/442Project/writeup
+PWD /Users/thomassporer/Documents/ASLrecognition442/writeup
 INPUT /usr/local/texlive/2023/texmf.cnf
 INPUT /usr/local/texlive/2023/texmf-dist/web2c/texmf.cnf
 INPUT /usr/local/texlive/2023/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT /Users/thomassporer/Documents/auMichEECS/442Project/writeup/writeup.tex
+INPUT /Users/thomassporer/Documents/ASLrecognition442/writeup/writeup.tex
 OUTPUT writeup.log
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/base/article.cls
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/base/article.cls

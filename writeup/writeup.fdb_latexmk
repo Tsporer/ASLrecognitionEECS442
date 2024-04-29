@@ -1,13 +1,13 @@
 # Fdb version 4
-["bibtex writeup"] 1714419287 "writeup.aux" "writeup.bbl" "writeup" 1714419287 0
+["bibtex writeup"] 1714419955 "writeup.aux" "writeup.bbl" "writeup" 1714419955 0
   "egbib.bib" 0 -1 0 ""
   "ieee_fullname.bst" 0 -1 0 ""
-  "writeup.aux" 1714419286 4846 0129f9b040864b1d46ce77e6cd8e8990 "pdflatex"
+  "writeup.aux" 1714419955 4846 2a074b5e01cf161403f7fcc8f73b91ae "pdflatex"
   (generated)
   "writeup.bbl"
   "writeup.blg"
   (rewritten before read)
-["pdflatex"] 1714419285 "/Users/thomassporer/Documents/auMichEECS/442Project/writeup/writeup.tex" "writeup.pdf" "writeup" 1714419287 0
+["pdflatex"] 1714419954 "/Users/thomassporer/Documents/ASLrecognition442/writeup/writeup.tex" "writeup.pdf" "writeup" 1714419955 0
   "../asl_alphabet_modified/F/F1044.jpg" 1714340028 11268 5ea8188ed54290c0f223286b6b0a2dba ""
   "../asl_alphabet_modified/F/F291.jpg" 1714340029 9411 adcda370a39a957db778871e5775a23c ""
   "../asl_alphabet_modified/F/F40.jpg" 1714340028 13406 1a052b37369ac8baf58bddc4cff6ff41 ""
@@ -18,7 +18,7 @@
   "../writeup_imgs/model2Plot.png" 1714346141 183982 cd48717d7632da1742382b6ac2d12b07 ""
   "../writeup_imgs/test_modified.png" 1714353982 3121521 be0c0b5613f1448c5b8b222ba62c7345 ""
   "../writeup_imgs/test_output.png" 1714150936 3121164 96da2a7f1c09a5c6529220e83a05a213 ""
-  "/Users/thomassporer/Documents/auMichEECS/442Project/writeup/writeup.tex" 1714419280 25036 4f5ae1e0e61b39d13001d1d077931d12 ""
+  "/Users/thomassporer/Documents/ASLrecognition442/writeup/writeup.tex" 1714419950 25093 42e4f4efc0274c3588bc2b77b1f3cd23 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/local/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/adobe/courier/pcrr7t.tfm" 1136768653 960 379cc0019370a9e0208a0a3f949f847a ""
@@ -133,10 +133,10 @@
   "/usr/local/texlive/2023/texmf-var/web2c/pdftex/pdflatex.fmt" 1694726437 7883454 c1054993fb42384462cd1570ad2ad36d ""
   "/usr/local/texlive/2023/texmf.cnf" 1678822455 577 1b2b1af17af2508fb20dd85783af4050 ""
   "cvpr.sty" 1714342191 22663 ae69ac60d981219f288927532f3b519c ""
-  "writeup.aux" 1714419286 4846 0129f9b040864b1d46ce77e6cd8e8990 "pdflatex"
+  "writeup.aux" 1714419955 4846 2a074b5e01cf161403f7fcc8f73b91ae "pdflatex"
   "writeup.bbl" 0 -1 0 "bibtex writeup"
-  "writeup.out" 1714419286 4574 f0645e878bef48af45ccb70457215cea "pdflatex"
-  "writeup.tex" 1714419280 25036 4f5ae1e0e61b39d13001d1d077931d12 ""
+  "writeup.out" 1714419955 4574 f0645e878bef48af45ccb70457215cea "pdflatex"
+  "writeup.tex" 1714419950 25093 42e4f4efc0274c3588bc2b77b1f3cd23 ""
   (generated)
   "writeup.aux"
   "writeup.log"

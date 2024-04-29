@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.9.14)  29 APR 2024 15:34
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.9.14)  29 APR 2024 15:45
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/Users/thomassporer/Documents/auMichEECS/442Project/writeup/writeup.tex
-(/Users/thomassporer/Documents/auMichEECS/442Project/writeup/writeup.tex
+**/Users/thomassporer/Documents/ASLrecognition442/writeup/writeup.tex
+(/Users/thomassporer/Documents/ASLrecognition442/writeup/writeup.tex
 LaTeX2e <2022-11-01> patch level 1
 L3 programming layer <2023-02-22> (/usr/local/texlive/2023/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2022/07/02 v1.4n Standard LaTeX document class
@@ -458,74 +458,67 @@ Package pdftex.def Info: ../writeup_imgs/model.jpeg  used on input line 237.
 File: ../asl_alphabet_modified/F/F40.jpg Graphic file (type jpg)
 <use ../asl_alphabet_modified/F/F40.jpg>
 Package pdftex.def Info: ../asl_alphabet_modified/F/F40.jpg  used on input line 303.
-(pdftex.def)             Requested size: 213.64455pt x 213.65779pt.
+(pdftex.def)             Requested size: 183.83438pt x 183.84679pt.
 <../asl_alphabet_modified/F/F291.jpg, id=135, 200.75pt x 200.75pt>
 File: ../asl_alphabet_modified/F/F291.jpg Graphic file (type jpg)
 <use ../asl_alphabet_modified/F/F291.jpg>
-Package pdftex.def Info: ../asl_alphabet_modified/F/F291.jpg  used on input line 308.
+Package pdftex.def Info: ../asl_alphabet_modified/F/F291.jpg  used on input line 310.
 (pdftex.def)             Requested size: 89.43048pt x 89.43301pt.
 <../asl_alphabet_modified/F/F793.jpg, id=136, 200.75pt x 200.75pt>
 File: ../asl_alphabet_modified/F/F793.jpg Graphic file (type jpg)
 <use ../asl_alphabet_modified/F/F793.jpg>
-Package pdftex.def Info: ../asl_alphabet_modified/F/F793.jpg  used on input line 309.
+Package pdftex.def Info: ../asl_alphabet_modified/F/F793.jpg  used on input line 311.
 (pdftex.def)             Requested size: 89.43048pt x 89.43301pt.
 <../asl_alphabet_modified/F/F542.jpg, id=137, 200.75pt x 200.75pt>
 File: ../asl_alphabet_modified/F/F542.jpg Graphic file (type jpg)
 <use ../asl_alphabet_modified/F/F542.jpg>
-Package pdftex.def Info: ../asl_alphabet_modified/F/F542.jpg  used on input line 313.
+Package pdftex.def Info: ../asl_alphabet_modified/F/F542.jpg  used on input line 315.
 (pdftex.def)             Requested size: 89.43048pt x 89.43301pt.
 <../asl_alphabet_modified/F/F1044.jpg, id=138, 200.75pt x 200.75pt>
 File: ../asl_alphabet_modified/F/F1044.jpg Graphic file (type jpg)
 <use ../asl_alphabet_modified/F/F1044.jpg>
-Package pdftex.def Info: ../asl_alphabet_modified/F/F1044.jpg  used on input line 314.
+Package pdftex.def Info: ../asl_alphabet_modified/F/F1044.jpg  used on input line 316.
 (pdftex.def)             Requested size: 89.43048pt x 89.43301pt.
- [3 <../asl_alphabet_modified/F/F40.jpg>]
+ [3 <../asl_alphabet_modified/F/F40.jpg> <../asl_alphabet_modified/F/F291.jpg> <../asl_alphabet_modified/F/F793.jpg> <../asl_alphabet_modified/F/F542.jpg> <../asl_alphabet_modified/F/F1044.jpg>]
 <../writeup_imgs/model1Plot.png, id=143, 807.015pt x 459.7175pt>
 File: ../writeup_imgs/model1Plot.png Graphic file (type png)
 <use ../writeup_imgs/model1Plot.png>
-Package pdftex.def Info: ../writeup_imgs/model1Plot.png  used on input line 336.
+Package pdftex.def Info: ../writeup_imgs/model1Plot.png  used on input line 338.
 (pdftex.def)             Requested size: 213.64455pt x 121.69829pt.
 <../writeup_imgs/test_output.png, id=145, 996.72375pt x 789.95125pt>
 File: ../writeup_imgs/test_output.png Graphic file (type png)
 <use ../writeup_imgs/test_output.png>
-Package pdftex.def Info: ../writeup_imgs/test_output.png  used on input line 344.
+Package pdftex.def Info: ../writeup_imgs/test_output.png  used on input line 346.
 (pdftex.def)             Requested size: 213.64455pt x 169.31789pt.
 <../writeup_imgs/model2Plot.png, id=146, 803.0pt x 455.7025pt>
 File: ../writeup_imgs/model2Plot.png Graphic file (type png)
 <use ../writeup_imgs/model2Plot.png>
-Package pdftex.def Info: ../writeup_imgs/model2Plot.png  used on input line 362.
+Package pdftex.def Info: ../writeup_imgs/model2Plot.png  used on input line 364.
 (pdftex.def)             Requested size: 213.64455pt x 121.24037pt.
- [4 <../asl_alphabet_modified/F/F291.jpg> <../asl_alphabet_modified/F/F793.jpg> <../asl_alphabet_modified/F/F542.jpg> <../asl_alphabet_modified/F/F1044.jpg> <../writeup_imgs/model1Plot.png> <../writeup_imgs/test_output.png> <../writeup_imgs/model2Plot.png>]
-<../writeup_imgs/test_modified.png, id=154, 995.72pt x 773.89125pt>
+<../writeup_imgs/test_modified.png, id=147, 995.72pt x 773.89125pt>
 File: ../writeup_imgs/test_modified.png Graphic file (type png)
 <use ../writeup_imgs/test_modified.png>
-Package pdftex.def Info: ../writeup_imgs/test_modified.png  used on input line 372.
+Package pdftex.def Info: ../writeup_imgs/test_modified.png  used on input line 374.
 (pdftex.def)             Requested size: 213.64455pt x 166.04092pt.
-
+ [4 <../writeup_imgs/model1Plot.png> <../writeup_imgs/test_output.png> <../writeup_imgs/model2Plot.png> <../writeup_imgs/test_modified.png>]
 No file writeup.bbl.
-[5 <../writeup_imgs/test_modified.png>]
-
-Package hyperref Warning: Suppressing link with empty target on input line 443.
-
-[6
-
-] (./writeup.aux)
+[5] (./writeup.aux)
 Package rerunfilecheck Info: File `writeup.out' has not changed.
 (rerunfilecheck)             Checksum: F0645E878BEF48AF45CCB70457215CEA;4574.
  ) 
 Here is how much of TeX's memory you used:
- 15205 strings out of 476025
- 254414 string characters out of 5790017
- 1872388 words of memory out of 5000000
+ 15204 strings out of 476025
+ 254396 string characters out of 5790017
+ 1873388 words of memory out of 5000000
  35420 multiletter control sequences out of 15000+600000
  531865 words of font info for 77 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 90i,10n,90p,434b,515s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 90i,10n,90p,430b,441s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2023/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on writeup.pdf (6 pages, 7478520 bytes).
+Output written on writeup.pdf (5 pages, 7478121 bytes).
 PDF statistics:
- 193 PDF objects out of 1000 (max. 8388607)
- 161 compressed objects within 2 object streams
- 34 named destinations out of 1000 (max. 500000)
+ 190 PDF objects out of 1000 (max. 8388607)
+ 159 compressed objects within 2 object streams
+ 33 named destinations out of 1000 (max. 500000)
  267 words of extra memory for PDF output out of 10000 (max. 10000000)
 

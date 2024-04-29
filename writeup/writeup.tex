@@ -98,7 +98,7 @@ Sign language communication is mostly used by people who are hard of hearing or 
 The main issue with communicating using sign language is that most of the population 
 do not know sign language, and its difficulty discourages people from learning. Like any
 other language, sign language takes much time and effort to learn. Implementing models to quickly
-predict and caption sign language would prove extremely useful in cases such as virtual meetings or conferences. 
+predict and caption sign language would prove extremely useful in cases such as virtual meetings. 
 
 \subsection{Approach}
 Our dataset consisted of 7250 images, 250 images for each letter A-Z and the ASL
@@ -299,10 +299,12 @@ full python code for our data modification.
 Other than using SciPy, cv2, and numpy’s libraries for certain data 
 modification, the rest of the code was implemented by us. Here is an example
 of an original image from the dataset (letter O), and the corresponding modified data:
-\\\begin{center}
-    Original: \\\includegraphics[width=0.43\textwidth]{../asl_alphabet_modified/F/F40.jpg}\\F40.jpg
+\begin{center}
+    Original: \\\includegraphics[width=0.37\textwidth]{../asl_alphabet_modified/F/F40.jpg}\\F40.jpg
+\end{center}
+\begin{center}
     \vspace{3mm}
-    \\\begin{tabular}{|c|c|}
+    \begin{tabular}{|c|c|}
         \hline
         Gaussian Blur & Grayscale \\
         \includegraphics[width=0.18\textwidth]{../asl_alphabet_modified/F/F291.jpg}
@@ -440,7 +442,7 @@ variability can enhance a model's predictive capabilities.
 %-------------------------------------------------------------------------
 \newpage
 \section{Appendix}
-\href{}{Link to github repository}
+\href{https://github.com/Tsporer/ASLrecognitionEECS442}{Link to github repository}
 
 \subsection{Appendix A: Code for loading and splitting data}
 Please see dataset.py in the github repository.
